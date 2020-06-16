@@ -1,4 +1,4 @@
-<h1> Hello Girish T S, Welcome to Simple DevOps Project !! . Congrats  </h1>
+<h1> Hello Girish T S, Welcome to Simple DevOps Project !! . congratulations  </h1>
 <h2> Deploying on a kubernetes</h2>
 <h2> Glad to see you here !!</h2>
 <h2>Lets Test Jenkins CI Build Trigger</h2>
